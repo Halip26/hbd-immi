@@ -1,10 +1,12 @@
-## Happy Birthday!!!
+# Happy Birthday Adek Immi
 
-### Wish someone special happy birthday in a special way.
+## Wish someone special happy birthday in a special way
 
-#### [See it Live](https://hbd-kamu.vercel.app)
+<https://hbd-immi.vercel.app>
 
-#### Update: Now you can customize all the texts without modifying the code!
+## [See it Live Here](https://hbd-kamu.vercel.app)
+
+## Update: Now you can customize all the texts without modifying the code
 
 On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
 
@@ -23,7 +25,6 @@ I've created the JSON file (`customize.json`) for easy and quick customizability
 Please note that I've created this page in a hurry and it comes with no warranty.
 
 Feel free to [get in touch with me](mailto:halipuddin.angko@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/halip26) as well. :)
-
 
 ## Contributing
 
