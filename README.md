@@ -2,8 +2,6 @@
 
 ## Wish someone special happy birthday in a special way
 
-<https://hbd-immi.vercel.app>
-
 ## [See it Live Here](https://hbd-kamu.vercel.app)
 
 ## Update: Now you can customize all the texts without modifying the code
